@@ -21,7 +21,8 @@
 // KIND, either express or implied. See the Apache License for the specific
 // language governing permissions and limitations under the Apache License.
 //
-#include "Python.h"
+#include <boost/python/detail/wrap_python.hpp>
+#include <boost/python/detail/wrap_python.hpp>
 #include "pxr/pxr.h"
 #include "pxr/base/tf/pyModule.h"
 

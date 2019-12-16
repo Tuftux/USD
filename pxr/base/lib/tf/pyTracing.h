@@ -24,7 +24,7 @@
 #ifndef TF_PYTRACING_H
 #define TF_PYTRACING_H
 
-#include <Python.h>
+#include <boost/python/detail/wrap_python.hpp>
 
 #include "pxr/pxr.h"
 
